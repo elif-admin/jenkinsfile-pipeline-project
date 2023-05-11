@@ -4,7 +4,7 @@ pipeline {
         stage('build') {
             steps {
                 echo "Clarusway_Way to Reinvent Yourself"
-                sh 'echo usi shel within Jenkinsfile'
+                sh 'echo usi shel whin Jeinsfile'
                 echo 'not using shell in the Jenkinsfile'
             }
         }
